@@ -1,1 +1,1 @@
-mobile app development
+mobile application project
